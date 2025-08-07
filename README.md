@@ -41,15 +41,20 @@ The frontend is styled using **Tailwind CSS** and **Bootstrap**, while the backe
 
 ## 🖼️ Screenshots
 
-### 🏠 Home Page
-![Home Page](screenshots/home.png)
+### 🏠 Home Page  
+![Home Page](img/home.png)
 
-### 🧠 Prediction Page
-![Prediction Page](screenshots/predict.png)
+### ℹ️ About Us Page  
+![About Page](img/about.png)
 
-### 📞 Contact Us Page
-![Contact Us](screenshots/contact.png)
+### 🤖 Prediction Page  
+![Prediction Page](img/predict.png)
 
+### 📰 News Section  
+![News Section](img/news.png)
+
+### 📞 Contact Us Page  
+![Contact Page](img/contact.png)
 > ⚠️ Make sure you create a `screenshots/` folder and place the images inside before pushing this to GitHub.
 
 ---
