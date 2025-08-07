@@ -38,23 +38,4 @@ The frontend is styled with *Tailwind CSS* and *Bootstrap, while the backend is 
 - *HTML / CSS / JS* – for frontend structure and interactivity
 
 ---
-## 🖥 Screenshots
-
-### 🏠 Home Page  
-![Home Page](Fake_news_detection_/img/home.png)
-
-### 🤖 Prediction Page  
-![Prediction Page](Fake_news_detection_/img/predict.png)
-
-### 📰 News Section  
-![News Section](Fake_news_detection_/img/news.png)
-
-### 📞 Contact Us Page  
-![Contact Page](Fake_news_detection_/img/contact.png)
-
-## ℹ About Us Page  
-![About Page](img/about.png)
-git add img/
-git commit -m "Add screenshots"
-git push origin main
 
