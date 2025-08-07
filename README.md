@@ -41,16 +41,16 @@ The frontend is styled with *Tailwind CSS* and *Bootstrap, while the backend is 
 ## 🖥 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](img/home.png)
+![Home Page](Fake_news_detection_/img/home.png)
 
 ### 🤖 Prediction Page  
-![Prediction Page](img/predict.png)
+![Prediction Page](Fake_news_detection_/img/predict.png)
 
 ### 📰 News Section  
-![News Section](img/news.png)
+![News Section](Fake_news_detection_/img/news.png)
 
 ### 📞 Contact Us Page  
-![Contact Page](img/contact.png)
+![Contact Page](Fake_news_detection_/img/contact.png)
 
 ## ℹ About Us Page  
 ![About Page](img/about.png)
