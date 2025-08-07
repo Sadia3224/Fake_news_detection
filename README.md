@@ -54,3 +54,7 @@ The frontend is styled with *Tailwind CSS* and *Bootstrap, while the backend is 
 
 ## ℹ About Us Page  
 ![About Page](img/about.png)
+git add img/
+git commit -m "Add screenshots"
+git push origin main
+
